@@ -14,3 +14,6 @@ The `calculate` function performs the following:
 - Converts the list into a 3x3 Numpy array.
 - Calculates the required statistical measures.
 - Returns the results in a dictionary format.
+
+## Acknowledgments
+- freeCodeCamp for providing the project.
